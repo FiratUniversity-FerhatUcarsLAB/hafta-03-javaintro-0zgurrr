@@ -1,5 +1,5 @@
 ### AÇIKLAMA
-Bu projede, Java ile çeşitli basit uygulamalar yapılmıştır. Programlar kullanıcıdan veri alır, işlem yapar ve sonucu ekranda gösterir.
+Bu Java ödevlerinde, ASCII karakterleri kullanarak harfler ekrana yazdırılmış, ürünlerin miktar ve fiyatları tablo şeklinde gösterilerek hesap özetlenmiş ve basit bir isim kartı oluşturulmuştur.
 
 ### ASCİİ ART HARF
 
