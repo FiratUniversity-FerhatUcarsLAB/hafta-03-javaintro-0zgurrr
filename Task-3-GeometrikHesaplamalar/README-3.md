@@ -1,3 +1,8 @@
+### İsim - Soy isim: Özgür Uluganyan
+### Öğrenci No: 250541083
+
+
+
 
 ### AÇIKLAMA 
 Bu ödevde Java kullanılarak daire, dikdörtgen ve üçgen alanları hesaplanmıştır.

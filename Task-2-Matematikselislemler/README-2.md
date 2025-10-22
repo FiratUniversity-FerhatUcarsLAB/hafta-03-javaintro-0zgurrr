@@ -1,3 +1,8 @@
+### İsim - Soy isim: Özgür Uluganyan
+### Öğrenci No: 250541083
+
+
+
 ### AÇIKLAMA
 Bu bölümde Java kullanarak matematiksel işlemler yapılmıştır.
 Programlarda faktöriyel hesaplama, toplama serisi gibi örnekler yer alır.

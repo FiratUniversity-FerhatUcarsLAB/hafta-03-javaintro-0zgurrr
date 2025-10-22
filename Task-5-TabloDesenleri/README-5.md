@@ -1,3 +1,7 @@
+### İsim - Soy isim: Özgür Uluganyan
+### Öğrenci No: 250541083
+
+
 ### AÇIKLAMA 
 Bu ödevde, Java ile çarpım tablosu, üslü sayılar tablosu ve mil-kilometre dönüşüm tablosu gibi temel tablolar hazırlanmıştır. Programlar kullanıcıya bilgi sunmak için hesaplama ve tablo görüntüleme işlemleri yapar.
 

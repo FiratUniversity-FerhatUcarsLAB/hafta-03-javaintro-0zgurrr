@@ -1,3 +1,8 @@
+### İsim - Soy isim: Özgür Uluganyan
+### Öğrenci No: 250541083
+
+
+
 ### AÇILAMA 
 Bu bonus ödevlerde, Java ile para bozma işlemi, saat-saniye dönüşümü ve vücut kitle indeksi (BMI) hesaplama programları yapılmıştır. Programlar basit hesaplamalar yaparak sonucu ekranda gösterir.
 
