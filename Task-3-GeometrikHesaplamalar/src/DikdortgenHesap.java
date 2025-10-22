@@ -1,12 +1,12 @@
 public class DikdortgenHesap {
     static void main(String[] args) {
-        int En = 3;
+        int en = 3;
 
-        int Boy = 5;
+        int boy = 5;
 
-        int alan = En * Boy;
+        int alan = en * boy;
 
-        int cevre = En + En + Boy + Boy;
+        int cevre = en + en + boy + boy;
 
         System.out.println("Diktörtgenin Alanı = " + alan);
 

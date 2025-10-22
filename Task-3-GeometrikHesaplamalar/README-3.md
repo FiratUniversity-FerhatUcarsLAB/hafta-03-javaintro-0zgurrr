@@ -9,8 +9,8 @@ Amaç, matematiksel formülleri programa dönüştürmek ve değişken, işlem v
 
 # DAİRE ALAN, ÇEVRE HESAP
 
-![DaireHesap.png](media/DaireHesap.png)
+![](media/DaireHesap.png)
 
 ### DİKDÖRTGEN HESAP
 
-![DikdortgenHesap.png](media/DikdortgenHesap.png)
+![](media/Dikd%C3%B6rtgenHesap.png)

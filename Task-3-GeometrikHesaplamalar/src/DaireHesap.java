@@ -4,17 +4,17 @@ public class DaireHesap {
         double pi = 3.14159;
 
         // ALAN HESABI
-        double Alan = pi * r * r;
+        double alan = pi * r * r;
 
         // ÇEVRE HESABI
-        double Cevre = 2 * pi * r;
+        double cevre = 2 * pi * r;
 
         // YARIÇAP
-        double Yaricap = r;
+        double yariCap = r;
 
         // ÇIKTI, SONUÇ
-        System.out.println("Alan = " + Alan);
-        System.out.println("Çevre = " + Cevre);
-        System.out.println("Yarıçap = " + Yaricap);
+        System.out.println("Alan = " + alan);
+        System.out.println("Çevre = " + cevre);
+        System.out.println("Yarıçap = " + yariCap);
     }
 }
