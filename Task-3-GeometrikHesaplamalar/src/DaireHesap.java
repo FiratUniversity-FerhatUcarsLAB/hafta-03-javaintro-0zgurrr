@@ -10,7 +10,7 @@ public class DaireHesap {
         double cevre = 2 * pi * r;
 
         // YARIÇAP
-        double yariCap = r;
+        double yaricap = r;
 
         // ÇIKTI, SONUÇ
         System.out.println("Alan = " + alan);
